@@ -15,7 +15,7 @@ h1 {
   background-color: hot-pink;
 }
 header {
-  background-image:src("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.dog%2Flight-gray&psig=AOvVaw0sqj_JDb_9sAeBe4oozazj&ust=1680367444792000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCfutfOhv4CFQAAAAAdAAAAABAF");
+  background-image:src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.dog%2Flight-gray&psig=AOvVaw0sqj_JDb_9sAeBe4oozazj&ust=1680367444792000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCfutfOhv4CFQAAAAAdAAAAABAF";
     color: white;
 }
 body {
